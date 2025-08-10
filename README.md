@@ -36,7 +36,8 @@ Dibuat menggunakan **HTML, CSS, dan JavaScript murni** tanpa library tambahan.
 ---
 
 ## Demo
-![Demo Navbar](https://kayissun.github.io/navbar-animasi/)
+<img src="ss.png"></img>
+<a href="https://kayissun.github.io/navbar-animasi/">Link Demo</a>
 
 ---
 
