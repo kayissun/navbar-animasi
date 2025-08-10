@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #121212;
+  color: white;
+}
+
+.container {
+  position: relative;
+  display: flex;
+  justify-content: start;
+  gap: 24px;
+  background-color: #1e1e1e;
+  border-bottom: 1px solid #333;
+  padding: 0 16px;
+}
+
+.nav-link {
+  position: relative;
+  color: #aaa;
+  text-decoration: none;
+  font-size: 14px;
+  padding: 8px 0 6px 0;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.nav-link.active {
+  color: rgb(70, 150, 200);
+}
+
+.indicator {
+  position: absolute;
+  bottom: 0;
+  height: 4px;
+  border-radius: 1px 1px 0 0;
+  width: 0;
+  background-color: rgb(70, 150, 200);
+  transition: all 0.3s ease;
+  left: 0;
+}
