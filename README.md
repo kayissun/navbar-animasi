@@ -9,7 +9,7 @@ Dibuat menggunakan **HTML, CSS, dan JavaScript murni** tanpa library tambahan.
 - Desain navbar horizontal dengan background gelap.
 - Indikator garis bawah bergerak halus ketika menu di-klik.
 - Warna teks menu berubah ketika aktif.
-- Menyesuaikan posisi indikator ketika ukuran layar berubah.
+- Menyesuakan posisi indikator ketika ukuran layar berubah.
 
 ---
 
