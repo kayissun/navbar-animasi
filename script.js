@@ -13,3 +13,4 @@ links.forEach((link) => link.addEventListener("click", () => setActive(link)));
 
 window.addEventListener("load", () => setActive(document.querySelector(".nav-link.active")));
 window.addEventListener("resize", () => setActive(document.querySelector(".nav-link.active")));
+
