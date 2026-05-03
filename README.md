@@ -41,10 +41,3 @@ Dibuat menggunakan **HTML, CSS, dan JavaScript murni** tanpa library tambahan.
 
 ---
 
-## Catatan
-- Pastikan class `container` di HTML sama dengan di CSS (hindari typo).
-- Perhatikan penamaan variabel di JavaScript agar sesuai (`links` bukan `link` tunggal).
-- Transisi di CSS gunakan `ease` atau `linear` untuk hasil yang mulus.
-
----
-
